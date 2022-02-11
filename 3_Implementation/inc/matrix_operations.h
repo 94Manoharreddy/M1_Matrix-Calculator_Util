@@ -1,11 +1,11 @@
 /**
  * @file matrix_operations.h
- * @author Hemanth A (hemanth.ec17@bmsce.ac.in)
+ * @author Manohar Reddy
  * @brief A program to calculate various operations on a matrix
  * @version 0.1
- * @date 2021-04-13
+ * @date 2022-10-02
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #ifndef __MATRIX_OPERATIONS_H__
