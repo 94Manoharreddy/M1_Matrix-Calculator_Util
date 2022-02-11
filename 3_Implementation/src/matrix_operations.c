@@ -1,11 +1,11 @@
 /**
  * @file matrix_operations.c
- * @author Hemanth A(hemanth.ec17@bmsce.ac.in)
+ * @author Manohar Reddy
  * @brief  This is the source code which contains all the functions for the project
  * @version 0.1
- * @date 2021-04-15
+ * @date 2022-10-02
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #include "matrix_operations.h"
